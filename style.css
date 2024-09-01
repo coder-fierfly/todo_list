@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 5px 0;
+    background-color: aqua;
+}
+li.completed span {
+    text-decoration: line-through;
+}
